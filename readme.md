@@ -70,5 +70,5 @@ Your environment will have following set up:
 ## Deploying your App changes to Github pages
 1. commit your changes to `main`
 2. run `npm run deploy`
-3. check your github repo's `gh-pages` branch to see if it has the latest commit
-4. click on github-pages on the bottom right to see the deployment
+3. check your github repo's `main` branch to see if it has the latest commit
+4. click on github-pages on the bottom right to see the deployment is triggered or not
